@@ -85,6 +85,6 @@ This project is intended strictly for educational and research use within contro
 
 - [plutron](https://github.com/plutron)  
 - [MohammadMahdiTT](https://github.com/MohammadMahdiTT)  
-- [deep4sky3abyss8](https://github.com/deep4sky3abyss8)
+- [mmdqsa438](https://github.com/mmdqsa438)
 
 ---
